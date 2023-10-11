@@ -12,6 +12,6 @@
  
 ## Máquinas Linux
 
-- [Validation]('Máquinas-Linux/Validation.md')
+- [Validation]('HTB-Linux/Validation.md')
 
 ## Máquina Windows
