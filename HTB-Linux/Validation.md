@@ -41,7 +41,7 @@
 - [Etapa de Reconocimiento](#etapa-de-reconocimiento)
 - [Etapa de Enumeración](#etapa-de-enumeración)
 - [Etapa de Explotación](#etapa-de-explotación)
-- [Escalada de Privilegios](#escalada-de-privilegios)
+- [Etapa de Escalada de Privilegios](#etapa-de-escalada-de-privilegios)
 
 > -------------------------
 
@@ -275,7 +275,7 @@ Como se puede observar, hemos obtenido una Shell interactiva que nos permite nav
 
 > -------------------------
 
-# Escalada de Privilegios
+# Etapa de Escalada de Privilegios
 
 <p align="justify">
   En la fase anterior, durante la enumeración de directorios, recordemos que encontramos un archivo llamado <mark style="background: #ADCCFFA6;">**config.php**.</mark> Sin embargo, no pudimos acceder a su contenido a través del navegador. Ahora que tenemos acceso a la máquina objetivo, vamos a intentar listar su contenido.
