@@ -36,7 +36,7 @@
 
 > -------------------------
 
-## Etapa
+## Etapas
 
 - [Etapa de Reconocimiento](#etapa-de-reconocimiento)
 - [Etapa de Enumeración](#etapa-de-enumeración)
