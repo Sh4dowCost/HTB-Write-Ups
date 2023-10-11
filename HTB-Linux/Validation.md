@@ -236,7 +236,7 @@ Aunque podemos realizar algunas consultas en la base de datos, debemos tener en 
 union select "Data" into outfile "/var/www/html/prueba.txt"-- -
 ```
 <p align="center">
-  <img src="https://github.com/Sh4dowCost/HTB-Write-Ups/assets/90486643/1a35d8cc-aa6c-4f60-b916-1abb592260ac">
+  <img src="https://github.com/Sh4dowCost/HTB-Write-Ups/assets/90486643/17b773b3-fe05-4e29-86cf-12bc53759b0d">
 </p>
 
 <p align="justify">
