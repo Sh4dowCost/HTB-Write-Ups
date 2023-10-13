@@ -160,7 +160,7 @@ Luego, proceder a visitar el servidor web en el navegador, y este me presentó u
 </p>
 
 <p align="justify">
-Como la página de configuración nos permite especificar la dirección del servidor LDAP en la opción de Settings, inicié una escucha netcat en el puerto 389. A continuación, cambié la dirección IP en el formulario de dirección del servidor. Como las credenciales probablemente estaban almacenadas/en caché en el host, esperaba que el host intentara autenticarse contra nuestro listener netcat.
+Como la página de configuración nos permite especificar la dirección del servidor LDAP en la opción de Settings, inicié una escucha netcat en el puerto 389. A continuación, cambié la dirección IP en el formulario de dirección del servidor. Como las credenciales probablemente estaban almacenadas en caché en el host, esperaba que el host intentara autenticarse contra nuestro listener netcat.
 </p>
 
 <p align="center">
