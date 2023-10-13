@@ -11,3 +11,5 @@
 - [Validation](HTB-Linux/Validation.md)
 
 ## Máquina Windows
+
+- [Return](HTB-Windows/Return.md)
