@@ -227,7 +227,7 @@ A partir de este punto, podemos adquirir la flag "**user.txt**"
 - whoami /priv
 - net users
 - net groups
-- net usr svc-printer
+- net user svc-printer
 
 <p align="center">
   <img src="https://github.com/Sh4dowCost/HTB-Write-Ups/assets/90486643/87150c97-d354-49e6-b6c7-201bfa1e2e55">
