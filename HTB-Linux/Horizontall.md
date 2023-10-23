@@ -17,12 +17,12 @@
       <th>Status</th>
     </tr>
     <tr>
-      <td>Hack The Box</td>
-      <td>Horizontall</td>
-      <td>Linux</td>
-      <td>10.10.11.105</td>
-      <td>28 de Agosto 2021</td>
-      <td>:green_circle: Fácil</td>
+      <td align="center">Hack The Box</td>
+      <td align="center">Horizontall</td>
+      <td align="center">Linux</td>
+      <td align="center">10.10.11.105</td>
+      <td align="center">28 de Agosto 2021</td>
+      <td align="center">:green_circle: Fácil</td>
       <td>
         <ul>
           <li>eJPT</li>
