@@ -9,7 +9,9 @@
 ## Máquinas Linux
 
 - [Validation](HTB-Linux/Validation.md)
+- [Horizontall](HTB-Linux/Horizontall.md)
 
 ## Máquina Windows
 
 - [Return](HTB-Windows/Return.md)
+- [Love](HTB-Windows/Love.md)
