@@ -24,7 +24,7 @@
       <td align="center">13 de Septiembre 2021</td>
       <td align="center">:green_circle: Fácil</td>
       <td>
-        <ul align="center">
+        <ul>
           <li>eJPT</li>
           <li>eWPT</li>
         </ul>
