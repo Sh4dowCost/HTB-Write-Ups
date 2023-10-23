@@ -53,7 +53,7 @@
 
 > -------------------------
 
-# Etapa de Reconocimiento
+## Etapa de Reconocimiento
 
 <p align="justify">
   Para empezar, iniciamos un escaneo agresivo para la enumeración de puerto abierto y descubrimos la siguiente información de puertos, lo cual no es recomendable, se debe aplicar escaneos sigiloso.
