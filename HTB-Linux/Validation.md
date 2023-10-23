@@ -17,19 +17,19 @@
       <th>Status</th>
     </tr>
     <tr>
-      <td>Hack The Box</td>
-      <td>Validation</td>
-      <td>Linux</td>
-      <td>10.10.11.116</td>
-      <td>13 de Septiembre 2021</td>
-      <td>:green_circle: Fácil</td>
+      <td align="center">Hack The Box</td>
+      <td align="center">Validation</td>
+      <td align="center">Linux</td>
+      <td align="center">10.10.11.116</td>
+      <td align="center">13 de Septiembre 2021</td>
+      <td align="center">:green_circle: Fácil</td>
       <td>
         <ul>
           <li>eJPT</li>
           <li>eWPT</li>
         </ul>
       </td>
-      <td>:heavy_check_mark:</td>
+      <td align="center">:heavy_check_mark:</td>
     </tr>
   </table>
 </div>
