@@ -100,7 +100,7 @@ PORT     STATE SERVICE VERSION
 
 > -------------------------
 
-# Etapa de Enumeración
+## Etapa de Enumeración
 
 <p align="justify">
   Trataremos de utilizar HTTP. Comprobar el puerto 80 para ver si surge algo interesante. Debido a que el Apache Server está expuesto en el puerto 80, podemos verificarlo inmediatamente en el navegador.
@@ -189,7 +189,7 @@ Realizamos una prueba al añadir una comilla simple al campo de país y enviar l
 
 > -------------------------
 
-# Etapa de Explotación
+## Etapa de Explotación
 
 <p align="justify">
 En este punto, podemos confirmar la presencia de una vulnerabilidad de Inyección SQL. Luego de la exfiltración de datos podemos observar que tenemos usuarios y hashes, lo cual hemos registrado, asi que es innecesario crackearlos o hacer algo con ellos. Lo que se puede probar es subir archivos mediante el campo vulnerable.
@@ -275,7 +275,7 @@ Como se puede observar, hemos obtenido una Shell interactiva que nos permite nav
 
 > -------------------------
 
-# Etapa de Escalada de Privilegios
+## Etapa de Escalada de Privilegios
 
 <p align="justify">
   En la fase anterior, durante la enumeración de directorios, recordemos que encontramos un archivo llamado <mark style="background: #ADCCFFA6;">**config.php**.</mark> Sin embargo, no pudimos acceder a su contenido a través del navegador. Ahora que tenemos acceso a la máquina objetivo, vamos a intentar listar su contenido.
