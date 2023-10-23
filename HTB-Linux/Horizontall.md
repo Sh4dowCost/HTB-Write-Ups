@@ -49,8 +49,8 @@
 
 - Information Leakage
 - Port Forwarding
-- Strapi CMS Exploitation
-- Laravel Exploitation
+- Explotación de Strapi CMS
+- Explotación de Laravel
 
 > -------------------------
 
