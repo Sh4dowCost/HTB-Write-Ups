@@ -17,18 +17,18 @@
       <th>Status</th>
     </tr>
     <tr>
-      <td>Hack The Box</td>
-      <td>Return</td>
-      <td>Windows</td>
-      <td>10.10.11.108</td>
-      <td>27 de Septiembre 2021</td>
-      <td>:green_circle: Fácil</td>
+      <td align="center">Hack The Box</td>
+      <td align="center">Return</td>
+      <td align="center">Windows</td>
+      <td align="center">10.10.11.108</td>
+      <td align="center">27 de Septiembre 2021</td>
+      <td align="center">:green_circle: Fácil</td>
       <td>
         <ul>
           <li>eJPT</li>
         </ul>
       </td>
-      <td>:heavy_check_mark:</td>
+      <td align="center">:heavy_check_mark:</td>
     </tr>
   </table>
 </div>
