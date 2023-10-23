@@ -29,7 +29,7 @@
           <li>eWPT</li>
         </ul>
       </td>
-      <td>:heavy_check_mark:</td>
+      <td align="center">:heavy_check_mark:</td>
     </tr>
   </table>
 </div>
