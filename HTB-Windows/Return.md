@@ -26,6 +26,7 @@
       <td>
         <ul>
           <li>eJPT</li>
+	  <li>eWPT</li>
         </ul>
       </td>
       <td align="center">:heavy_check_mark:</td>
