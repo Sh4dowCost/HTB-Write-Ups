@@ -47,8 +47,8 @@
 ## Técnicas Exploradas
 
 - Server Side Request Forgery (SSRF)
-- Exploiting Voting System
-- Abusing AlwaysInstallElevated (msiexec/msi file)
+- Exploitacion de CMS - Voting System
+- Abusar de AlwaysInstallElevated (msiexec/msi file)
  
 > -------------------------
 
