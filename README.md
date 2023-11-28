@@ -10,6 +10,7 @@
 
 - [Validation](HTB-Linux/Validation.md)
 - [Horizontall](HTB-Linux/Horizontall.md)
+- [NodeBlog](HTB-Linux/NodeBlog.md)
 
 ## Máquina Windows
 
